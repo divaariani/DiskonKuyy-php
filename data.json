@@ -1,0 +1,28 @@
+{
+    "chart":{
+        "caption":"Rata-Rata Harga Promo yang Ditawarkan",
+        "subCaption":"Tempat kuliner di seluruh Indonesia",
+        "xaxisName":"Tempat Kuliner",
+        "yAxisName":"Harga Promo(Rupiah)",
+        "theme":"fint"
+    },
+    "data":[
+        {"label":"Abuba Steak","value":"175000"},
+        {"label":"A&W","value":"86000"},
+        {"label":"Bakmi GM","value":"23000"},
+        {"label":"Baskin Robbins","value":"242000"},
+		{"label":"Burger Bangor","value":"12500"},
+		{"label":"Burger King","value":"16000"},
+		{"label":"Chigo","value":"16700"},
+		{"label":"Gokana Ramen & Teppan","value":"25000"},
+		{"label":"HokBen","value":"125000"},
+		{"label":"Janji Jiwa","value":"54000"},
+		{"label":"Kimukatsu","value":"99000"},
+		{"label":"Pocha Jjang","value":"56000"},
+		{"label":"Richeese Factory","value":"32000"},
+		{"label":"Traffic Bun","value":"84000"},
+		{"label":"Waroeng Steak","value":"79000"},
+		{"label":"Xiboba","value":"22000"},
+        {"label":"Yuba Tea","value":"11000"}
+    ]
+}
